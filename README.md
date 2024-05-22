@@ -1,5 +1,5 @@
     👋 Olá, Chamo-me Gustavo Valença Marcilio
-    👀 Estou interessado em criar um jogo do gênero: Terror, terror psicológico, mistério, sobrenatural e gore
+    👀 Estou interessado em criar um jogo do gênero: Terror, psicológico, mistério, sobrenatural e gore
     🌱 Estou atualmente aprendendo JAVA
     💞️ Estou procurando colaborar no que precisar
     📫 Para contatar-me: gustavovalencamarcilio@gmail.com
