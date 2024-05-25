@@ -2,7 +2,7 @@
     👀 Estou interessado em criar um jogo do gênero: Terror, psicológico, mistério, sobrenatural e gore
     🌱 Estou atualmente aprendendo JAVA
     💞️ Estou procurando colaborar no que precisar
-    📫 Para contatar-me: [Email de Trabalho](workgustavo10@gmail.com)
+    📫 Para contatar-me: [Email de Trabalho](https://mailto:workgustavo10@gmail.com/)
     📫 Discord: @KairoshiYT
 
 <!---
