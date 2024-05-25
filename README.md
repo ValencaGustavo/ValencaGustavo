@@ -1,12 +1,7 @@
-    👋 Olá, Chamo-me Gustavo Valença Marcilio
-    👀 Estou interessado em criar um jogo do gênero: Terror, psicológico, mistério, sobrenatural e gore
-    🌱 Estou atualmente aprendendo JAVA
-    💞️ Estou procurando colaborar no que precisar
-    📫 Para contatar-me: [Email](mailto:seuemail@exemplo.com)
+# Meu Projeto
 
-    📫 Discord: @KairoshiYT
+Este é um exemplo de README para demonstrar como criar um link de email.
 
-<!---
-ValencaGustavo/ValencaGustavo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contato
+
+Se você tiver alguma dúvida ou quiser entrar em contato, envie um email para [meuemail@exemplo.com](mailto:meuemail@exemplo.com).
