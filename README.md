@@ -26,10 +26,7 @@
 # Estudando:
 
   <img align="center" alt="Valença-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Valença-JAVA" height="30" width="40" 
-</div>
-
+  <img align="center" alt="Valença-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!---
 ValencaGustavo/ValencaGustavo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
