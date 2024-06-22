@@ -2,8 +2,13 @@
 👀 Estou interessado em criar um jogo do gênero: Terror, psicológico, mistério, sobrenatural e gore
 💞️ Estou procurando colaborar no que precisar
 
+## Discord
+<a href="https://discord.com/users/1161128827129430196"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/1161128827129430196?theme=dark&bg=2c3c57&borderRadius=15px&animated=true&idleMessage=In%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+  </a>
+
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/valencagustavo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valencagustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencagustavo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
