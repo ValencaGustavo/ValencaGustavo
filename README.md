@@ -83,6 +83,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValencaGustavo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1161128827129430196)
+
 #
 
 <p><strong>Meu Discord</strong></p>
