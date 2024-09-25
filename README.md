@@ -38,7 +38,7 @@
 <p><strong>Acompanhe minhas criações </strong></p>
 
 <div align="left">
-<a href="https://www.portfolio-valenca.xyz/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/explorer/explorer-original.svg" height="40" alt="Explorer"  /></a>
+<a href="https://www.portfolio-valenca.xyz/" ><img src="https://skillicons.dev/icons?i=explorer&theme=light" height="40" alt="Explorer"  /></a>
 </div>
 
 #
@@ -46,8 +46,8 @@
   <p><strong>Entre em contato comigo</strong></p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-valenca-marcilio/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
-  <a href="https://discord.com/users/1161128827129430196"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" height="32" alt="Discord Logo" style="display: inline-block;" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-valenca-marcilio/" ><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+  <a href="https://discord.com/users/1161128827129430196"><img src="https://skillicons.dev/icons?i=discord&theme=light" height="32" alt="Discord Logo" style="display: inline-block;" /></a>
 </div>
 
 #
@@ -69,7 +69,7 @@
 
 
   **Formação Frontend** \
-  [**Dio.me**](https://www.dio.me/users/jmmsp2003/) \
+  [**Dio.me**](https://www.dio.me/users/gustavo-valenca-marcilio/) \
   Linguagens & Tecnologias: `Java`, `SpringBoot`, `Git`
 </div>
 
@@ -82,8 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ValencaGustavo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValencaGustavo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1161128827129430196)
 
 #
 
