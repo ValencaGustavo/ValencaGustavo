@@ -1,14 +1,8 @@
-<h2 align="left" > 
-  <strong> Hello, World!✌🌎 </strong>
-</h2>
-
 <div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./my-gif-banner.gif" alt="" /></div>
 
 </br>
 
 <p align="left"><strong>Hello! I'm Gustavo Valença and I'm  a FullStack Developer (Java) from Brazil.</strong></p>
-
-<img src="./my-logo.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
  <strong> Bem vindos(as) ao meu GitHub! </strong>
