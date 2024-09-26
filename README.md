@@ -32,7 +32,7 @@
 <p><strong>Acompanhe minhas criações </strong></p>
 
 <div align="left">
-<a href="https://www.portfolio-valenca.xyz/" ><img src="https://skillicons.dev/icons?i=explorer&theme=light" height="40" alt="Explorer"  /></a>
+<a href="https://www.portfolio-valenca.xyz/" ><img src="https://skillicons.dev/icons?i=github&theme=light" height="40" alt="Explorer"  /></a>
 </div>
 
 #
@@ -40,6 +40,7 @@
   <p><strong>Entre em contato comigo</strong></p>
 
 <div align="left">
+   <a href="mailto:workgustavo10@gmail.com?subject=Olá!"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
   <a href="https://www.linkedin.com/in/gustavo-valenca-marcilio/" ><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
   <a href="https://discord.com/users/1161128827129430196"><img src="https://skillicons.dev/icons?i=discord&theme=light" height="32" alt="Discord Logo" style="display: inline-block;" /></a>
 </div>
