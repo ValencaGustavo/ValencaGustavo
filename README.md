@@ -65,6 +65,13 @@
   **Formação Frontend** \
   [**Dio.me**](https://www.dio.me/users/gustavo-valenca-marcilio/) \
   Linguagens & Tecnologias: `Java`, `SpringBoot`, `Git`
+    <br>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzzuB9Qj47Y3Wn6IeK7AWH5IcAOZJtL5Y7g&s" alt="Unirios Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+
+  **MCC (Manutenção de Computadores e Celulares)** \
+  [**CEBRAC PR**](https://www.pr.senac.br/) • CEBRAC PR • 80 horas<br>
 </div>
 
 #
