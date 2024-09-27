@@ -50,16 +50,16 @@
 <p align="left"><strong>Formação Acadêmica</strong></p>
 
 <div> 
-  <img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Unirios Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <a href="https://www.pr.senac.br/"><img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Unirios Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;"></a>
 
   **Formação Java** \
   [**Senac PR**](https://www.pr.senac.br/) • Senac PR • 240 horas
   <br/>
     <br/>
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <a href="https://www.dio.me/users/gustavovalencamarcilio/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;"></a>
  
 
 
@@ -68,11 +68,11 @@
   Linguagens & Tecnologias: `Java`, `SpringBoot`, `Git`
     <br>
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzzuB9Qj47Y3Wn6IeK7AWH5IcAOZJtL5Y7g&s" alt="Unirios Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <a href="https://www.cebrac.com.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzzuB9Qj47Y3Wn6IeK7AWH5IcAOZJtL5Y7g&s" alt="Unirios Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;"></a>
 
   **MCC (Manutenção de Computadores e Celulares)** \
-  [**CEBRAC PR**](https://www.pr.senac.br/) • CEBRAC PR • 80 horas<br>
+  [**CEBRAC PR**](https://www.cebrac.com.br/) • CEBRAC PR • 80 horas<br>
 </div>
 
 #
