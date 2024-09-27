@@ -64,7 +64,7 @@
 
 
   **Formação Frontend** \
-  [**Dio.me**](https://www.dio.me/users/gustavo-valenca-marcilio/) \
+  [**Dio.me**](https://www.dio.me/users/gustavovalencamarcilio/) \
   Linguagens & Tecnologias: `Java`, `SpringBoot`, `Git`
     <br>
 
