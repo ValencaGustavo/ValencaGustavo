@@ -65,7 +65,7 @@
 
   **Formação Frontend** \
   [**Dio.me**](https://www.dio.me/users/gustavovalencamarcilio/) \
-  Linguagens & Tecnologias: `Java`, `SpringBoot`, `Git`
+  Linguagens & Tecnologias: `Java`, `Git`, `HTML`, `CSS`, `JS`
     <br>
 
   <a href="https://www.cebrac.com.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzzuB9Qj47Y3Wn6IeK7AWH5IcAOZJtL5Y7g&s" alt="Unirios Logo"
