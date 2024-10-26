@@ -2,7 +2,7 @@
 
 </br>
 
-<p align="left"><strong>Hello! I'm Gustavo Valença and I'm  a FullStack Developer (Java) from Brazil.</strong></p>
+<p align="left"><strong>Hello! I'm Gustavo Valença and I'm  a Java Developer from Brazil.</strong></p>
 
 <p align="left"> 
  <strong> Bem vindos(as) ao meu GitHub! </strong>
@@ -12,7 +12,6 @@
     <li>🌳 Paraná</li>
     <li>🎮 Jogos RPG 2D de terror, psicológico🕹️</li>
     <li>📚 Estudante de Java </li>
-    <li>🖥 Desenvolvedor <strong>FullStack</strong></li>
 </ul>
 
 #
