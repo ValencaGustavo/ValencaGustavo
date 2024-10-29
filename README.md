@@ -2,7 +2,7 @@
 
 </br>
 
-<p align="left"><strong>Hello! I'm Gustavo Valença and I'm  a Java Developer from Brazil.</strong></p>
+<p align="left"><strong>Hello! I'm Gustavo Valença and I'm a Web Developer from Brazil.</strong></p>
 
 <p align="left"> 
  <strong> Bem vindos(as) ao meu GitHub! </strong>
@@ -10,6 +10,7 @@
 
 <ul align="left" >
     <li>🌳 Paraná</li>
+    <li>📑 Web Developer </li>
     <li>🎮 Jogos RPG 2D de terror, psicológico🕹️</li>
     <li>📚 Estudante de Java </li>
 </ul>
