@@ -20,7 +20,7 @@
 <p><strong>Minhas Tecnologias</strong></p>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,nodejs,mysql&theme=light" height="42" alt="Java Logo"  />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js&theme=light" height="42" alt="Java Logo"  />
   <img width="12" />
 </div>
 
