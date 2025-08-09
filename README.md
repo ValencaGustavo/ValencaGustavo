@@ -50,15 +50,26 @@
 <p align="left"><strong>Formação Acadêmica</strong></p>
 
 <div> 
-  <a href="https://www.pr.senac.br/"><img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Unirios Logo"
+
+  <a href="https://www.unisenaipr.com.br"><img src="https://tse1.mm.bing.net/th/id/OIP.wz3nFNOB_HoLXV4CdLXlAQHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" alt="UniSenaiPR Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;"></a>
+ 
+
+
+  **Bacharelado** \
+  [**UniSenaiPR**](https://www.unisenaipr.com.br/) \
+  Ensino Superior em Engenharia de Software
+    <br>
+ 
+  <a href="https://www.pr.senac.br/"><img src="https://pbs.twimg.com/profile_images/1615411890636689408/vMPL28LQ_400x400.jpg" alt="Senac Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;"></a>
 
   **Formação Java** \
   [**Senac PR**](https://www.pr.senac.br/) • Senac PR • 240 horas
   <br/>
     <br/>
-  
-  <a href="https://www.dio.me/users/gustavovalencamarcilio/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Unirios Logo"
+
+  <a href="https://www.dio.me/users/gustavovalencamarcilio/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKw5JRBqrwiDIDd3ZUlG-Q6vqVLBTdOh6w-A&s" alt="Dio Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;"></a>
  
 
